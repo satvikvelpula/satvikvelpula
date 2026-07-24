@@ -60,6 +60,5 @@ I believe strong engineering is equal parts correctness and clarity. I care abou
 
 ## Connect
 
-* **GitHub:** [github.com/satvikvelpula](https://github.com/satvikvelpula)
 * **LinkedIn:** [linkedin.com/satvikvelpula](https://www.linkedin.com/in/satvik-velpula-98389a276/)
 * **Email:** satvikvelpula0@gmail.com

@@ -54,7 +54,7 @@ I believe strong engineering is equal parts correctness and clarity. I care abou
 
 ## Metrics & Activity
 
-[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=satvikvelpula&theme=transparent&hide_border=true&title_color=000000&text_color=000000&icon_color=000000)](https://github.com/satvikvelpula)
+[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=satvikvelpula&theme=transparent&hide_border=true&title_color=black&text_color=black&icon_color=black)](https://github.com/satvikvelpula)
 
 ---
 

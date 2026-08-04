@@ -29,7 +29,7 @@ I am a software engineering student based in Finland, specializing in backend sy
 
 ### [Quantix Logistics](https://github.com/Quantix-Incorporated/quantix-logistics) - Backend Lead Developer
 *A role-based logistics platform connecting storefront orders, driver operations, admin analytics, and live map tracking.*
-* **Tech Stack:** Express, MySQL, JWT, React, TypeScript
+* **Tech Stack:** Express, MySQL, JWT, React, JavaScript
 * **Focus:** REST API design, authentication, data modeling, and reliable backend delivery for a multi-role full-stack system.
 * **Live:** [logistics.quantixincorporated.com](https://logistics.quantixincorporated.com/)
 
